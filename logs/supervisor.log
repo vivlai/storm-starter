@@ -3997,3 +3997,45 @@ java.lang.IllegalArgumentException: Field storm.zookeeper.servers must be an Ite
 2017-02-14 22:15:57 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
 2017-02-14 22:15:57 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
 2017-02-14 22:15:58 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:15:58 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:15:59 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:15:59 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:00 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:00 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:01 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:01 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:02 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:02 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:03 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:03 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:04 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:04 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:05 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:05 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:06 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:06 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:07 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:07 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:08 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:08 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:09 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:09 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:10 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:10 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:11 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:11 b.s.d.supervisor [INFO] 4d55625a-296c-4ccb-b299-971f90b09fbc still hasn't started
+2017-02-14 22:16:12 b.s.d.supervisor [INFO] Worker 4d55625a-296c-4ccb-b299-971f90b09fbc failed to start
+2017-02-14 22:16:12 b.s.d.supervisor [INFO] Worker daf34508-8265-4151-aa29-948d67044ac4 failed to start
+2017-02-14 22:16:12 b.s.d.supervisor [INFO] Worker db2a3485-7b05-4cb2-b302-2c692ef1e3e6 failed to start
+2017-02-14 22:16:12 b.s.d.supervisor [INFO] Shutting down and clearing state for id 4d55625a-296c-4ccb-b299-971f90b09fbc. Current supervisor time: 1487135772. State: :not-started, Heartbeat: nil
+2017-02-14 22:16:12 b.s.d.supervisor [INFO] Shutting down b2b3468f-e524-4102-b3af-7e32a3df821b:4d55625a-296c-4ccb-b299-971f90b09fbc
+2017-02-14 22:16:12 b.s.util [INFO] Error when trying to kill 60570. Process is probably already dead.
+2017-02-14 22:16:12 b.s.d.supervisor [INFO] Shut down b2b3468f-e524-4102-b3af-7e32a3df821b:4d55625a-296c-4ccb-b299-971f90b09fbc
+2017-02-14 22:16:12 b.s.d.supervisor [INFO] Shutting down and clearing state for id daf34508-8265-4151-aa29-948d67044ac4. Current supervisor time: 1487135772. State: :not-started, Heartbeat: nil
+2017-02-14 22:16:12 b.s.d.supervisor [INFO] Shutting down b2b3468f-e524-4102-b3af-7e32a3df821b:daf34508-8265-4151-aa29-948d67044ac4
+2017-02-14 22:16:12 b.s.util [INFO] Error when trying to kill 60571. Process is probably already dead.
+2017-02-14 22:16:12 b.s.d.supervisor [INFO] Shut down b2b3468f-e524-4102-b3af-7e32a3df821b:daf34508-8265-4151-aa29-948d67044ac4
+2017-02-14 22:16:12 b.s.d.supervisor [INFO] Shutting down and clearing state for id db2a3485-7b05-4cb2-b302-2c692ef1e3e6. Current supervisor time: 1487135772. State: :not-started, Heartbeat: nil
+2017-02-14 22:16:12 b.s.d.supervisor [INFO] Shutting down b2b3468f-e524-4102-b3af-7e32a3df821b:db2a3485-7b05-4cb2-b302-2c692ef1e3e6
+2017-02-14 22:16:12 b.s.util [INFO] Error when trying to kill 60572. Process is probably already dead.
+2017-02-14 22:16:12 b.s.d.supervisor [INFO] Shut down b2b3468f-e524-4102-b3af-7e32a3df821b:db2a3485-7b05-4cb2-b302-2c692ef1e3e6

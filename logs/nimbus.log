@@ -3694,3 +3694,7 @@ java.lang.IllegalArgumentException: Field storm.zookeeper.servers must be an Ite
 2017-02-14 22:14:12 b.s.d.nimbus [INFO] Cleaning up production-topology-1-1-1487134916
 2017-02-14 22:14:12 b.s.d.nimbus [INFO] Killing topology: production-topology-2-2-1487135132
 2017-02-14 22:14:22 b.s.d.nimbus [INFO] Cleaning up production-topology-2-2-1487135132
+2017-02-14 22:16:58 b.s.d.nimbus [INFO] Shutting down master
+2017-02-14 22:16:58 o.a.z.ZooKeeper [INFO] Session: 0x15a4010bed10001 closed
+2017-02-14 22:16:58 o.a.z.ClientCnxn [INFO] EventThread shut down
+2017-02-14 22:16:58 b.s.d.nimbus [INFO] Shut down master
